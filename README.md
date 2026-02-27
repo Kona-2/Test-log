@@ -1,2 +1,3 @@
 # Test-log
 Preempt_rtとRemoraあたりを用いて色々遊ぶ何か
+始めたばっかなのでまだ何もありません
